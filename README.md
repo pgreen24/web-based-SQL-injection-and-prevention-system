@@ -13,3 +13,10 @@ Open the project in your browser and start using it</br>
 
 # Security:
  take security seriously, and this release includes measures to prevent SQL injection attacks. However, i recommend that you follow best practices for securing your database and server.
+
+### Languages Used
+
+| Language | Version |
+|----------|---------|
+| PHP      | 7.4     |
+| SQL      | 5.7     |
