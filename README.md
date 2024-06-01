@@ -20,3 +20,12 @@ Open the project in your browser and start using it</br>
 |----------|---------|
 | PHP      | 7.4     |
 | SQL      | 5.7     |
+
+### Languages Used
+
+* Japanese (日本語)
+* Hindi (हिन्दी)
+* Bengali (বাংলা)
+* Telugu (తెలుగు)
+* Marathi (मराठी)
+* Tamil (தமிழ்)
