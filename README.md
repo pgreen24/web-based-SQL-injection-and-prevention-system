@@ -1,4 +1,7 @@
 # web-based-SQL-injection-and-prevention-system
+# what is SQL injection?
+SQL Injection, is a type of web application security vulnerability that allows an attacker to interfere with the queries that an application makes to its database. It is a code injection technique that attackers can use to exploit vulnerabilities in web applications that use SQL as their database language.
+
 # Installation:
 
 To install this project, follow these steps:
