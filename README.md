@@ -18,7 +18,7 @@ Import the database using phpMyAdmin</br>
 Make changes to the settings in the config folder</br>
 Open the project in your browser and start using it</br>
 
-# Security:
+# 🛡️Security:
  take security seriously, and this release includes measures to prevent SQL injection attacks. However, i recommend that you follow best practices for securing your database and server.
 
 ### Languages Used
