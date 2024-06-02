@@ -21,11 +21,15 @@ Open the project in your browser and start using it</br>
 | PHP      | 7.4     |
 | SQL      | 5.7     |
 
-### Languages Used
+# Create Website for Requirement Application
+•	Visual Studio</br>
+•	XMAPP</br>
+•	Burp suite</br> 
+•	SQL Map</br>
+# Create Website for Back End Code Requirement
+•	HTML</br>
+•	CSS</br>
+•	JAVA SCRIPT</br>
+•	PHP</br>
+•	MY SQL</br>
 
-* Japanese (日本語)
-* Hindi (हिन्दी)
-* Bengali (বাংলা)
-* Telugu (తెలుగు)
-* Marathi (मराठी)
-* Tamil (தமிழ்)
