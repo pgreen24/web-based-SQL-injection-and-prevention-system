@@ -12,7 +12,9 @@ Note: The example discussed below can be found in the [sql-injection folder](htt
 ##### Suppose your PHP application processes user data based on input to generate SQL queries, and suddenly, an anonymous attacker secretly injects a malicious SQL query in the input field.These are common problems that I have noticed in PHP based web applications
 
 
+# SQL Injection Prevention in PHP Website
 
+To prevent SQL injection attacks in PHP web applications when processing user input, it's essential to use prepared statements with parameter binding. 
 
 # Installation:
 
