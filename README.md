@@ -5,7 +5,11 @@
 # 💉what is SQL injection?
 SQL Injection, is a type of web application security vulnerability that allows an attacker to interfere with the queries that an application makes to its database. It is a code injection technique that attackers can use to exploit vulnerabilities in web applications that use SQL as their database language.
 
+
+
 Note: The example discussed below can be found in the [sql-injection folder](https://github.com/pgreen24/web-based-SQL-injection-and-prevention-system/tree/main/SQL%20injection)
+
+##### Suppose your PHP application processes user data based on input to generate SQL queries, and suddenly, an anonymous attacker secretly injects a malicious SQL query in the input field.These are common problems that I have noticed in PHP based web applications
 
 
 
