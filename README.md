@@ -14,6 +14,11 @@ SQL Injection, is a type of web application security vulnerability that allows a
 # SQL Injection Prevention in PHP Website
 
 To prevent SQL injection attacks in PHP web applications when processing user input, it's essential to use prepared statements with parameter binding. 
+1. Use prepared statements with parameter binding to separate SQL code from user-supplied data.</BR>
+2. Never concatenate user input directly into your SQL queries.</BR>
+3. Use a database abstraction library that supports prepared statements, such as PDO or MySQLi.</BR>
+4. Implement stored procedures in the database to prevent SQL injection attacks.</BR>
+5. Always filter and sanitize all inputs used to build SQL queries.</BR>
 
 Note: The example discussed below can be found in the [sql-injection folder](https://github.com/pgreen24/web-based-SQL-injection-and-prevention-system/tree/main/SQL%20injection)
 
