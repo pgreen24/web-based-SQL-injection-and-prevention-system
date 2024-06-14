@@ -3,7 +3,7 @@
 #### This system is designed to demonstrate the importance of preventing SQL injection attacks in web applications. It includes a login form that accepts user input and validates it against a database using PHP and MySQL.
 
 # 💉what is SQL injection?
-SQL Injection, is a type of web application security vulnerability that allows an attacker to interfere with the queries that an application makes to its database. It is a code injection technique that attackers can use to exploit vulnerabilities in web applications that use SQL as their database language.
+SQL Injection, is a type of web application security vulnerability that allows an attacker to interfere with the queries that an application makes to its database. It is a code injection technique that attackers can use to exploit vulnerabilities in web applications that use SQL as their database language. and this is  that kind of technique used to retrieve or destroy data from a database without permission. It is considered one of the top web application security risks. Where data fuels the core functionalities of web applications, ensuring the security of databases is of paramount importance. Web-based SQL injection occurs when an attacker manipulates input fields on a web application to inject malicious SQL code, potentially compromising the underlying database. 
 
 
 
