@@ -76,3 +76,4 @@ SQL Map is an open-source penetration testing tool that automates the process of
 
 ##### Exploit SQL injection: Use SQL Map to exploit the identified SQL injection vulnerabilities and extract sensitive data.</br>
 
+###More comprehensive information is provided in the accompanying PDF.
